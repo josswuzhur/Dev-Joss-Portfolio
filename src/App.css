@@ -1,0 +1,13 @@
+:root {
+    /* === Blues (accents) === */
+    --color-blue-primary: #0EA5E9;   /* sky-500: main accent */
+    --color-blue-secondary: #0284C7; /* sky-600: hover/active */
+
+    /* === Greys (backgrounds & neutrals) === */
+    --color-grey-dark: #111827;  /* gray-900: main background */
+    --color-grey-mid: #1F2937;   /* gray-800: sections, cards */
+    --color-grey-light: #374151; /* gray-700: muted text */
+
+    /* === Text / Contrast === */
+    --color-white: #F3F4F6; /* gray-100: light text */
+}
