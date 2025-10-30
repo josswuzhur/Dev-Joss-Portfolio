@@ -85,7 +85,7 @@ export const Projects = () => {
                                     View Live Demo →
                                 </a>
                                 <a
-                                    href="" target="_blank" rel="noopener noreferrer"
+                                    href="https://github.com/josswuzhur/movie-rating-app" target="_blank" rel="noopener noreferrer"
                                     className="text-sky-400 hover:text-cyan-200 transition-colors my-4"
                                 >
                                     View Code →
